@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: ;
+    font-family: ;
+}
+
+h1{
+    font-size: ;
+    margin-bottom: ;
+    border-bottom: ;
+}
+
+article{
+    width: ;
+    background: ;
+    margin: ;
+    padding: ;
+}
+
+figure{
+    margin-bottom: ;
+}
+
+img{
+    width: ;
+    border-radius: ;
+}
+
+p{
+    margin-bottom: ;
+}
+
+figcaption{
+    font-size: ;
+    font-style: ;
+}
