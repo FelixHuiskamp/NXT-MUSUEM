@@ -10,16 +10,23 @@ body{
 }
 
 h1{
-    font-size: ;
-    margin-bottom: ;
-    border-bottom: ;
+    font: size ;    
+    margin: bottom ; 
+    border: bottom ; 
 }
 
 article{
-    width: ;
+    width: 100px;   
     background: ;
     margin: ;
     padding: ;
+}
+
+.button{
+    color:rgb(243, 115, 115);
+    margin-left: 50px;
+    font-size: 27px;
+    margin-left: 50px;
 }
 
 figure{
