@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    margin 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -34,8 +34,8 @@ figure{
 }
 
 img{
-    width: ;
-    border-radius: ;
+    width: 40%;
+    border-radius: 5px;
 }
 
 p{
