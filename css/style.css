@@ -5,7 +5,7 @@
 }
 
 body{
-    font-size: size 40px ;
+    font-size: 20px ;
     font-family: sans-serif;
 }
 
@@ -25,31 +25,53 @@ article{
     color: white;
 }
 
-button{
+.button{
     background-color: #04AA6D; /* Green */
     border: none;
     color: white;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
 }
+.button:hover{
+    background-color: pink;
+}
 
 figure{
-    margin-bottom: ;
+    /* margin-bottom: ; */
 }
 
 img{
-    width: 40%;
+    width: 10%;
     border-radius: 5px;
 }
+.logoimg
+{
+    width: 90px;
+    height: 90px;
+}
 
+nav {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+nav section{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+nav a{
+    margin: 0px 15px;
+    padding: 15px 32px;
+    
+}
 p{
-    margin-bottom: ;
+    /* margin-bottom: ; */
 }
 
 figcaption{
-    font-size: ;
-    font-style: ;
+    /* font-size: ;
+    font-style: ; */
 }
